@@ -6,6 +6,6 @@ elif year=='2014' or '103':
 elif year=='2015' or '104':
     print('2015《危險人物》（Dangerous Woman）')
 elif year=='2018' or '107':
-    print('2018《甜到翻》,《Thank U, Next》')
+    print('2018《甜到翻》,(Thank U, Next)')
 else:
     print('此年未釋出專輯')
